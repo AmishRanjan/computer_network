@@ -1,0 +1,2 @@
+echo -e 'USER guest * 0 : 101501005\nNICK cocoa\nJOIN #iitpkd-networking\nPRIVMSG #iitpkd-networking :HELLO!\nQUIT\n' \
+| nc irc.freenode.net 6667
